@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project-03
 
 This project contains a number of operating system programs, such as page replacement algorithms, scheduling algorithms, and memory partitioning algorithms.
@@ -16,3 +17,7 @@ https://osprograms.devopswithdivya.me/
 ![image](https://user-images.githubusercontent.com/113757574/215108519-b5819179-b244-4709-8299-a5acf2530987.png)
 
 
+=======
+# TheOSproject
+Implemented various algorithm used in Operating System
+>>>>>>> 223320e731bc689c7eff694694e53312aaf55d3e
