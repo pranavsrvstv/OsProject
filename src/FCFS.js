@@ -84,7 +84,7 @@ function FCFS() {
                     <div className="col-lg-6 mb-5 mb-lg-0" style={{ zIndex: "10" }}>
                         <h1 className="my-3 display-5 fw-bold ls-tight" style={{ color: "#C36B84" }}> FCFS
                             <br /><span style={{ color: "#ED6B5B" }}>Scheduling Algorithm</span> </h1> : <h1> </h1>
-                        <p className="mb-2 opacity-70" style={{ color: "#F9AC66" }}>
+                        <p className="mb-2 opacity-70" style={{ color: "#000000" }}>
                             The simplest scheduling policy is first-come-first served (FCFS), also known as first-in, first-out (FIFO) or a strict queueing scheme.
                             As each process becomes ready, it joins the ready queue. When the currently running process ceases to execute, the process that has been in the ready queue the longest
                             is selected for running. FCFS performs much better for long processes than short ones.<br />
@@ -144,7 +144,7 @@ function FCFS() {
                         </button><br />
                     </div>
                 </div>
-                <h6 style={{ color: "#1f4287", justifyContent: "center", position: "relative", display: "flex" }}>© 2023 Divya Patel. All Rights Reserved</h6>
+                <h6 style={{ color: "#1f4287", justifyContent: "center", position: "relative", display: "flex" }}>© 2024 Pranav Shrivastava. All Rights Reserved</h6>
             </div>
         </section>
 

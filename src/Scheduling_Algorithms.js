@@ -17,7 +17,7 @@ function SchedulingAlgo() {
                         <div className="col-lg-6 mb-5 mb-lg-0">
                             <h1 className="my-3 display-5 fw-bold ls-tight" style={{ color: "#C36B84" }}> Scheduling
                                 <br /><span style={{ color: "#ED6B5B" }}>Algorithms</span> </h1> : <h1> </h1>
-                            <p className="mb-2 opacity-70" style={{ color: "#F9AC66" }}>
+                            <p className="mb-2 opacity-70" style={{ color: "#000000" }}>
                                 The main objective of scheduling is to allocate processor time in such a way as to optimize one or more aspects of system behavior.
                                 Mainly the focus is on effective and efficient utilization of the processor. An example is throughput, which is the rate at which processes are completed.
                                 This is certainly a worthwhile measure of system performance and one that we would like to maximize. System oriented objectives for scheduling algorithms
@@ -63,7 +63,7 @@ function SchedulingAlgo() {
                             </p>
                         </div>
                     </div>
-                    <h6 style={{ color: "#1f4287", justifyContent: "center", position: "relative", display: "flex" }}>© 2023 Divya Patel. All Rights Reserved</h6>
+                    <h6 style={{ color: "#1f4287", justifyContent: "center", position: "relative", display: "flex" }}>© 2024 Pranav Shrivastava. All Rights Reserved</h6>
                 </div>
             </section>
         </body>

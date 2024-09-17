@@ -188,7 +188,7 @@ function Memory_Partition() {
                         <div className="col-lg-6 mb-5 mb-lg-0">
                             <h1 className="my-3 display-5 fw-bold ls-tight" style={{ color: "#C36B84" }}> Memory Partitioning
                                 <br /><span style={{ color: "#ED6B5B" }}>Algorithm</span> </h1> : <h1> </h1>
-                            <p className="mb-2 opacity-70" style={{ color: "#F9AC66" }}>
+                            <p className="mb-2 opacity-70" style={{ color: "#000000" }}>
                                 <b> Memory Partitioning </b> is a technique in which if there is more than one partition freely available to
                                 accommodate a process’s request, a partition must be selected. To choose a particular partition, a partition allocation method
                                 is needed. A partition allocation method is considered better if it avoids internal fragmentation.
@@ -260,7 +260,7 @@ function Memory_Partition() {
                             </button><br />
                         </div>
                     </div>
-                    <h6 style={{ color: "#1f4287", justifyContent: "center", position: "relative", display: "flex" }}>© 2023 Divya Patel. All Rights Reserved</h6>
+                    <h6 style={{ color: "#1f4287", justifyContent: "center", position: "relative", display: "flex" }}>© 2024 Pranav Shrivastava. All Rights Reserved</h6>
                 </div>
             </section>
         </body>

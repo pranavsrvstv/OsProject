@@ -79,7 +79,7 @@ function FIFO_PR() {
                     <div className="col-lg-6 mb-5 mb-lg-0" style={{ zIndex: "10" }}>
                         <h1 className="my-3 display-5 fw-bold ls-tight" style={{ color: "#C36B84" }}> FIFO
                             <br /><span style={{ color: "#ED6B5B" }}>Page Replacement</span> </h1> : <h1> </h1>
-                        <p className="mb-2 opacity-70" style={{ color: "#F9AC66" }}>
+                        <p className="mb-2 opacity-70" style={{ color: "#000000" }}>
                             <b> The first-in-first-out (FIFO)</b> policy treats the page frames allocated to a process
                             as a circular buffer, and pages are removed in round-robin style. All that is required
                             is a pointer that circles through the page frames of the process. This is therefore one
@@ -137,7 +137,7 @@ function FIFO_PR() {
                         </button>
                     </div>
                 </div>
-                <h6 style={{color:"#1f4287", justifyContent:"center", position:"relative", display:"flex"}}>© 2023 Divya Patel. All Rights Reserved</h6>
+                <h6 style={{color:"#1f4287", justifyContent:"center", position:"relative", display:"flex"}}>© 2024 Pranav Shrivastava. All Rights Reserved</h6>
             </div>
         </section>
 

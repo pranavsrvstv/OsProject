@@ -116,7 +116,7 @@ function Priority_Scheduling() {
                     <div className="col-lg-6 mb-5 mb-lg-0" style={{ zIndex: "10" }}>
                         <h1 className="my-3 display-5 fw-bold ls-tight" style={{ color: "#C36B84" }}> Priority
                             <br /><span style={{ color: "#ED6B5B" }}>Scheduling Algorithm</span> </h1> : <h1> </h1>
-                        <p className="mb-2 opacity-70" style={{ color: "#F9AC66" }}>
+                        <p className="mb-2 opacity-70" style={{ color: "#000000" }}>
                             Priority scheduling is a non-preemptive algorithm and one of the most common scheduling
                             algorithms in batch systems. Each process is assigned first arrival time (less arrival time process first)
                             if two processes have same arrival time, then compare to priorities (highest process first).
@@ -180,7 +180,7 @@ function Priority_Scheduling() {
                         </button><br />
                     </div>
                 </div>
-                <h6 style={{color:"#1f4287", justifyContent:"center", position:"relative", display:"flex"}}>© 2023 Divya Patel. All Rights Reserved</h6>
+                <h6 style={{color:"#1f4287", justifyContent:"center", position:"relative", display:"flex"}}>© 2024 Pranav Shrivastava. All Rights Reserved</h6>
             </div>
         </section>
 

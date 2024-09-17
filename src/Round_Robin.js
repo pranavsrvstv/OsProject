@@ -151,7 +151,7 @@ function Round_Robin() {
                     <div className="col-lg-6 mb-5 mb-lg-0" style={{ zIndex: "10" }}>
                         <h1 className="my-3 display-5 fw-bold ls-tight" style={{ color: "#C36B84" }}> Round Robin
                             <br /><span style={{ color: "#ED6B5B" }}>Scheduling Algorithm</span> </h1> : <h1> </h1>
-                        <p className="mb-2 opacity-70" style={{ color: "#F9AC66" }}>
+                        <p className="mb-2 opacity-70" style={{ color: "#000000" }}>
                             A straightforward way to reduce the penalty that short jobs suffer
                             with FCFS is to use preemption based on a clock. The simplest such policy is <b>Round
                                 Robin.</b> A clock interrupt is generated at periodic intervals. When the interrupt occurs,
@@ -213,7 +213,7 @@ function Round_Robin() {
                         </button><br />
                     </div>
                 </div>
-                <h6 style={{ color: "#1f4287", justifyContent: "center", position: "relative", display: "flex" }}>© 2023 Divya Patel. All Rights Reserved</h6>
+                <h6 style={{ color: "#1f4287", justifyContent: "center", position: "relative", display: "flex" }}>© 2024 Pranav Shrivastava. All Rights Reserved</h6>
             </div>
         </section>
 

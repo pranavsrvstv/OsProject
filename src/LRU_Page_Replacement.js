@@ -105,7 +105,7 @@ function LRU_PR() {
                         <div className="col-lg-6 mb-5 mb-lg-0" style={{ zIndex: "10" }}>
                             <h1 className="my-3 display-5 fw-bold ls-tight" style={{ color: "#C36B84" }}> LRU
                                 <br /><span style={{ color: "#ED6B5B" }}>Page Replacement</span> </h1> : <h1> </h1>
-                            <p className="mb-2 opacity-70" style={{ color: "#F9AC66" }}>
+                            <p className="mb-2 opacity-70" style={{ color: "#000000" }}>
                                 <b> The least recently used (LRU)</b> policy replaces the page in memory that has not
                                 been referenced for the longest time. By the principle of locality, this should be the
                                 page least likely to be referenced in the near future. And, in fact, the LRU policy does
@@ -164,7 +164,7 @@ function LRU_PR() {
                             </button><br />
                         </div>
                     </div>
-                    <h6 style={{ color: "#1f4287", justifyContent: "center", position: "relative", display: "flex" }}>© 2023 Divya Patel. All Rights Reserved</h6>
+                    <h6 style={{ color: "#1f4287", justifyContent: "center", position: "relative", display: "flex" }}>© 2024 Pranav Shrivastava. All Rights Reserved</h6>
                 </div>
             </section>
         </div>

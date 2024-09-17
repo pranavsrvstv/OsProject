@@ -16,7 +16,7 @@ code {
   justify-content: end;
 }
 .active{
-  color: #feb062;
+  color: #222;
 }
 
 #radius-shape-1 {
@@ -44,7 +44,7 @@ code {
 }
 
 .background-radial-gradient{
-  background-color: #071a52;
+  background-color: #ffffff;
   /* background-image: radial-gradient(650px circle at 0% 0%,
       hsl(215,100%, 35%) 15%,
       hsl(215,100%, 30%) 35%,

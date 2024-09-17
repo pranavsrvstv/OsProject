@@ -95,7 +95,7 @@ function SJF() {
                     <div className="col-lg-6 mb-5 mb-lg-0" style={{ zIndex: "10" }}>
                         <h1 className="my-3 display-5 fw-bold ls-tight" style={{ color: "#C36B84" }}> SJF
                             <br /><span style={{ color: "#ED6B5B" }}>Scheduling Algorithm</span> </h1> : <h1> </h1>
-                        <p className="mb-2 opacity-70" style={{ color: "#F9AC66" }}>
+                        <p className="mb-2 opacity-70" style={{ color: "#000000" }}>
                             <b> The Shortest-Job-First (SJF)</b> is another approach to reducing the bias in favor of
                             long processes inherent in FCFS. This is a nonpreemptive policy in which the process with the shortest expected processing
                             time is selected next. Thus, a short process will jump to the head of the queue past
@@ -147,7 +147,7 @@ function SJF() {
                         </button><br />
                     </div>
                 </div>
-                <h6 style={{ color: "#1f4287", justifyContent: "center", position: "relative", display: "flex" }}>© 2023 Divya Patel. All Rights Reserved</h6>
+                <h6 style={{ color: "#1f4287", justifyContent: "center", position: "relative", display: "flex" }}>© 2024 Pranav Shrivastava. All Rights Reserved</h6>
             </div>
         </section>
 

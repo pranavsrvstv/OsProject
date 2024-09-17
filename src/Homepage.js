@@ -30,7 +30,7 @@ function Homepage() {
                         <div className="col-lg-6 mb-5 mb-lg-0">
                             <h1 className="my-3 display-5 fw-bold ls-tight" style={{ color: "#C36B84" }}> Hello, user!
                                 <br /><span style={{ color: "#ED6B5B" }}>Nice to see you.</span> </h1> : <h1> </h1>
-                            <p className="mb-2 opacity-70" style={{ color: "#F9AC66" }}>
+                            <p className="mb-2 opacity-70" style={{ color: "#000000" }}>
                                 An OS is a program that controls the execution of application programs, and acts as
                                 an interface between applications and the computer hardware. There have been four major theoretical advances in the development of operating
                                 systems: (1) Process, (2) Memory management, (3) Information protection and security, (4) Scheduling and resource management. <br />
@@ -58,7 +58,7 @@ function Homepage() {
                             </p>
                         </div>
                     </div>
-                    <h6 style={{ color: "#1f4287", justifyContent: "center", position: "relative", display: "flex" }}>© 2023 Divya Patel. All Rights Reserved</h6>
+                    <h6 style={{ color: "#1f4287", justifyContent: "center", position: "relative", display: "flex" }}>© 2024 Pranav Shrivastava. All Rights Reserved</h6>
                 </div>
             </section>
         </body>

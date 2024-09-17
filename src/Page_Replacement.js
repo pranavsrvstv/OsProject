@@ -16,7 +16,7 @@ function PageReplacement() {
             <div className="col-lg-6 mb-5 mb-lg-0">
               <h1 className="my-3 display-5 fw-bold ls-tight" style={{ color: "#C36B84" }}> Page Replacement
                 <br /><span style={{ color: "#ED6B5B" }}>Algorithms</span> </h1> : <h1> </h1>
-              <p className="mb-2 opacity-70" style={{ color: "#F9AC66" }}>
+              <p className="mb-2 opacity-70" style={{ color: "#000000" }}>
                 The area of replacement policy is probably the most studied of any area of
                 memory management. When all of the frames in main memory are occupied and
                 it is necessary to bring in a new page to satisfy a page fault, the replacement policy
@@ -52,7 +52,7 @@ function PageReplacement() {
               </p>
             </div>
           </div>
-          <h6 style={{ color: "#1f4287", justifyContent: "center", position: "relative", display: "flex" }}>© 2023 Divya Patel. All Rights Reserved</h6>
+          <h6 style={{ color: "#1f4287", justifyContent: "center", position: "relative", display: "flex" }}>© 2024 Pranav Shrivastava. All Rights Reserved</h6>
         </div>
       </section>
     </body>
